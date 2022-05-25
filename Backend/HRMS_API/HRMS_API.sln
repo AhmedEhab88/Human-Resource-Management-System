@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMS_API", "HRMS_API\HRMS_API.csproj", "{0318A208-E090-4E77-BED0-BB6D98708429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMS_UnitTests", "HRMS_UnitTests\HRMS_UnitTests.csproj", "{EA171F81-F728-4FC7-B51F-219E31188591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0318A208-E090-4E77-BED0-BB6D98708429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0318A208-E090-4E77-BED0-BB6D98708429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0318A208-E090-4E77-BED0-BB6D98708429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0318A208-E090-4E77-BED0-BB6D98708429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA171F81-F728-4FC7-B51F-219E31188591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA171F81-F728-4FC7-B51F-219E31188591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA171F81-F728-4FC7-B51F-219E31188591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA171F81-F728-4FC7-B51F-219E31188591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6CEDC54-812A-46F7-A2A1-379E25E70A23}
+	EndGlobalSection
+EndGlobal
